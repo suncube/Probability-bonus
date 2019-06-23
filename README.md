@@ -10,4 +10,3 @@ This package can be used for lotery of daily bonuses. Each bonus can establish p
 
 [Twitter](https://twitter.com/suncubestudio) | [Facebook](https://www.facebook.com/suncubestudio/) | [YouTube](https://www.youtube.com/channel/UC4O9GHjx0ovyVYJgMg4aFMA?view_as=subscriber) | [AssetStore](https://assetstore.unity.com/publishers/14506) | [GitHub](https://github.com/suncube)
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
